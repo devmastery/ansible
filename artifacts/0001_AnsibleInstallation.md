@@ -2,18 +2,18 @@
 
 ### Using Package Managers
 
-####Ubuntu - apt-get Package Manager
+######Ubuntu - apt-get Package Manager
 
 			* sudo apt-get install software-properties-common
 			* sudo apt-add-repository ppa:ansible/ansible
 			* sudo apt-get update
 			* sudo apt-get install ansible 
 
-####Fedora Linux
+######Fedora Linux
 
 			* sudo yum install ansible
 
-####Redhat, Centos Linux
+######Redhat, Centos Linux
 			
 			* yum install epel-release
 			* rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
