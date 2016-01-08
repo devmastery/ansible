@@ -19,7 +19,7 @@
 
 ### Group of group servers
 
-			[salesmachines]
+			[salesmachines:children]
 			webservers
 			databaseservers
 
