@@ -32,6 +32,11 @@
 			192.168.0.8 ansible_port=24 ansible_user=babu ansible_ssh_private_key_file=/home/babu/.ssh/id_rsa
 			192.168.0.9 ansible_port=24 ansible_user=melon ansible_ssh_private_key_file=/home/babu/.ssh/id_rsa
 
+			** Note if you are using Ansible version lesser than 2, you shoud use the following 
+			ansible_ssh_user
+			ansible_ssh_host
+			ansible_ssh_port
+
 
 
 ### Group Variables
