@@ -19,4 +19,4 @@
 
 ### Test Ansible without password(-k , -K) flags
 
-			* ansible -m ping webservers
+			* sudo ansible --private-key=/home/babu/.ssh/id_rsa -m ping webservers
