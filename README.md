@@ -1,7 +1,7 @@
 ## DevMastery Ansible Artifacts Store
 
 
-#######Base Tools/Softwares Needed for Ansible Demo:
+######Base Tools/Softwares Needed for Ansible Demo:
 
 ####For On-Premise Ansible Controller
 
