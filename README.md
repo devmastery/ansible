@@ -5,14 +5,13 @@ Base Tools/Softwares Needed for Ansible Demo:
 
 For On-Premise Ansible Controller
 
-        #If you dont have ubuntu physcial Machine
-        
-        1. Git SCM [Visit GitHub!]
-        [test](https://www.github.com)
-        2. Oracle VirtualBox (url : http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
-        3. Ubuntu ISO (url : http://www.ubuntu.com/download/desktop)
-        4. Sudo Access
-        
+#If you dont have ubuntu physcial Machine
+1. Git SCM [Visit GitHub!]
+[test](https://www.github.com)
+2. Oracle VirtualBox (url : http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
+3. Ubuntu ISO (url : http://www.ubuntu.com/download/desktop)
+4. Sudo Access
+  
         # If you have ubuntu physical Machine
         1. Git SCM (url : https://git-scm.com/downloads)
         2. Sudo Access
