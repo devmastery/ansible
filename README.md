@@ -18,6 +18,6 @@
 
 ###For AWS Ansible Controller
 
-1. AWS Subscription Account / AWS IAM Account [Download] (https://aws.amazon.com/console/)
+1. AWS Subscription Account / AWS IAM Account [Console] (https://aws.amazon.com/console/)
 2. Git SCM  [Download](https://git-scm.com/downloads)
 3. Sudo Access
